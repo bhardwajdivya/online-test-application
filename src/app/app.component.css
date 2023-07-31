@@ -1,0 +1,10 @@
+.nav li{
+    margin-left: 15px;
+}
+
+.nav{
+    float: right;
+    background-color: #000;
+    width: 100%;
+    padding: 10px;
+}
